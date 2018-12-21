@@ -133,6 +133,10 @@ p:last-child { margin-bottom: 0; }
 
 .tm-page-content { margin-top: 255px; }
 
+.display-none {
+  display: none;
+}
+
 .tm-home-right {
 	padding: 100px 70px 100px 100px;
     display: -webkit-flex;
